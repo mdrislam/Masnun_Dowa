@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071685474620",
+    "project_id": "masnun-dowa",
+    "storage_bucket": "masnun-dowa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071685474620:android:b8eea492287c26ffd3a639",
+        "android_client_info": {
+          "package_name": "com.mristudio.massnundoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071685474620-d0sgd2l566tpknj1c0eeldl0euu7k5cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mristudio.massnundoa",
+            "certificate_hash": "e1063c882580fde1be0333746c941ce903cecbe7"
+          }
+        },
+        {
+          "client_id": "1071685474620-dj8l5pd4sv265rru162sot2qihje1rj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYcfsmZqSjHKXOs8511KzVUnqrJRbA5ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071685474620-dj8l5pd4sv265rru162sot2qihje1rj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Profile"
+            android:icon="@drawable/profile"
+            android:title="MyProfile"/>
+        <item
+            android:id="@+id/nav_Rating"
+            android:icon="@drawable/ic_fav"
+            android:title="Rating App"/>
+        <item
+            android:id="@+id/nav_Share"
+            android:icon="@drawable/ic_nav_share"
+            android:title="Share App"/>
+        <item
+            android:id="@+id/nav_More"
+            android:icon="@drawable/ic_more"
+            android:title="More App"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_About"
+                android:icon="@drawable/ic_about"
+                android:title="About Us"/>
+            <item
+                android:id="@+id/nav_Privicy"
+                android:icon="@drawable/ic_privacy"
+                android:title="Privacy Policy"/>
+            <item
+                android:id="@+id/nav_AboutDeveloper"
+                android:icon="@drawable/ic_author"
+                android:title="About Developer"/>
+            <item
+                android:id="@+id/nav_Logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Log out"/>
+            <item
+                android:id="@+id/nav_LogIn"
+                android:icon="@drawable/ic_login"
+                android:title="Log In"/>
+        </menu>
+    </item>
+
+</menu>
